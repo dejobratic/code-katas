@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Kata.SearchingAlgorithms/1.0.0": {
+        "dependencies": {
+          "Kata": "1.0.0",
+          "coverlet.collector": "1.1.0",
+          "coverlet.msbuild": "2.7.0"
+        },
+        "runtime": {
+          "Kata.SearchingAlgorithms.dll": {}
+        }
+      },
+      "coverlet.collector/1.1.0": {},
+      "coverlet.msbuild/2.7.0": {},
+      "Kata/1.0.0": {
+        "runtime": {
+          "Kata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kata.SearchingAlgorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "coverlet.collector/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OBxWQ4vNm+kVvKy8NTk6skRNMQCeQLqSqJ0xq19S0GLovHYTnVTcsjYgV54t6LnjjQ6mDADMcFvHMQHLoNQhIg==",
+      "path": "coverlet.collector/1.1.0",
+      "hashPath": "coverlet.collector.1.1.0.nupkg.sha512"
+    },
+    "coverlet.msbuild/2.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AHs0G2xaPg9zUiyCC8yYzQLNLaRUKjN0eU8NwGA+eQJIXye1f21gmMIZXRJnkg5he46AohQZBg2TMjw9Z6Wt4A==",
+      "path": "coverlet.msbuild/2.7.0",
+      "hashPath": "coverlet.msbuild.2.7.0.nupkg.sha512"
+    },
+    "Kata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

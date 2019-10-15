@@ -1,0 +1,12 @@
+C:\Users\Dejan\source\repos\Kata\Kata.SearchingAlgorithms\obj\Debug\netcoreapp3.0\Kata.SearchingAlgorithms.csprojAssemblyReference.cache
+C:\Users\Dejan\source\repos\Kata\Kata.SearchingAlgorithms\obj\Debug\netcoreapp3.0\Kata.SearchingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Dejan\source\repos\Kata\Kata.SearchingAlgorithms\obj\Debug\netcoreapp3.0\Kata.SearchingAlgorithms.AssemblyInfo.cs
+C:\Users\Dejan\source\repos\Kata\Kata.SearchingAlgorithms\bin\Debug\netcoreapp3.0\Kata.exe
+C:\Users\Dejan\source\repos\Kata\Kata.SearchingAlgorithms\bin\Debug\netcoreapp3.0\Kata.SearchingAlgorithms.deps.json
+C:\Users\Dejan\source\repos\Kata\Kata.SearchingAlgorithms\bin\Debug\netcoreapp3.0\Kata.SearchingAlgorithms.dll
+C:\Users\Dejan\source\repos\Kata\Kata.SearchingAlgorithms\bin\Debug\netcoreapp3.0\Kata.SearchingAlgorithms.pdb
+C:\Users\Dejan\source\repos\Kata\Kata.SearchingAlgorithms\bin\Debug\netcoreapp3.0\Kata.dll
+C:\Users\Dejan\source\repos\Kata\Kata.SearchingAlgorithms\bin\Debug\netcoreapp3.0\Kata.pdb
+C:\Users\Dejan\source\repos\Kata\Kata.SearchingAlgorithms\obj\Debug\netcoreapp3.0\Kata.SearchingAlgorithms.csproj.CopyComplete
+C:\Users\Dejan\source\repos\Kata\Kata.SearchingAlgorithms\obj\Debug\netcoreapp3.0\Kata.SearchingAlgorithms.dll
+C:\Users\Dejan\source\repos\Kata\Kata.SearchingAlgorithms\obj\Debug\netcoreapp3.0\Kata.SearchingAlgorithms.pdb

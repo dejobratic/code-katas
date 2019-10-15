@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata", "Kata\Kata.csproj", "{33114086-15CB-4FD7-8D71-956CC773BD66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.SearchingAlgorithms", "Kata.SearchingAlgorithms\Kata.SearchingAlgorithms.csproj", "{0883CC24-42F5-44E5-96AD-83A41A06381E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.SearchingAlgorithms.Tests", "Kata.SearchingAlgorithms.Tests\Kata.SearchingAlgorithms.Tests.csproj", "{70E215D4-E5D7-4DEE-B896-F37B481B0D7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SearchingAlgorithms", "SearchingAlgorithms", "{2589F50C-BE5D-42B0-964B-E183FE204931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33114086-15CB-4FD7-8D71-956CC773BD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33114086-15CB-4FD7-8D71-956CC773BD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33114086-15CB-4FD7-8D71-956CC773BD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33114086-15CB-4FD7-8D71-956CC773BD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0883CC24-42F5-44E5-96AD-83A41A06381E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0883CC24-42F5-44E5-96AD-83A41A06381E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0883CC24-42F5-44E5-96AD-83A41A06381E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0883CC24-42F5-44E5-96AD-83A41A06381E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E215D4-E5D7-4DEE-B896-F37B481B0D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E215D4-E5D7-4DEE-B896-F37B481B0D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E215D4-E5D7-4DEE-B896-F37B481B0D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E215D4-E5D7-4DEE-B896-F37B481B0D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0883CC24-42F5-44E5-96AD-83A41A06381E} = {2589F50C-BE5D-42B0-964B-E183FE204931}
+		{70E215D4-E5D7-4DEE-B896-F37B481B0D7F} = {2589F50C-BE5D-42B0-964B-E183FE204931}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C3774B9-CB0D-408B-8A93-29F712E760C4}
+	EndGlobalSection
+EndGlobal
