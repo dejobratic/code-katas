@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata", "Kata\Kata.csproj", "{33114086-15CB-4FD7-8D71-956CC773BD66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata", "Kata\Kata.csproj", "{33114086-15CB-4FD7-8D71-956CC773BD66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.SearchingAlgorithms", "Kata.SearchingAlgorithms\Kata.SearchingAlgorithms.csproj", "{0883CC24-42F5-44E5-96AD-83A41A06381E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata.SearchingAlgorithms", "Kata.SearchingAlgorithms\Kata.SearchingAlgorithms.csproj", "{0883CC24-42F5-44E5-96AD-83A41A06381E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.SearchingAlgorithms.Tests", "Kata.SearchingAlgorithms.Tests\Kata.SearchingAlgorithms.Tests.csproj", "{70E215D4-E5D7-4DEE-B896-F37B481B0D7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata.SearchingAlgorithms.Tests", "Kata.SearchingAlgorithms.Tests\Kata.SearchingAlgorithms.Tests.csproj", "{70E215D4-E5D7-4DEE-B896-F37B481B0D7F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SearchingAlgorithms", "SearchingAlgorithms", "{2589F50C-BE5D-42B0-964B-E183FE204931}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GameOfLife", "GameOfLife", "{2C0161F3-F831-46B6-AC7C-E8F08A5F715D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.GameOfLife", "Kata.GameOfLife\Kata.GameOfLife.csproj", "{7FFA5E30-4657-48D2-9989-920EC6BDA8F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.GameOfLife.Tests", "Kata.GameOfLife.Tests\Kata.GameOfLife.Tests.csproj", "{53BA6825-2824-4831-A815-09562CAD0314}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +35,14 @@ Global
 		{70E215D4-E5D7-4DEE-B896-F37B481B0D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70E215D4-E5D7-4DEE-B896-F37B481B0D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70E215D4-E5D7-4DEE-B896-F37B481B0D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FFA5E30-4657-48D2-9989-920EC6BDA8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFA5E30-4657-48D2-9989-920EC6BDA8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFA5E30-4657-48D2-9989-920EC6BDA8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFA5E30-4657-48D2-9989-920EC6BDA8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BA6825-2824-4831-A815-09562CAD0314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BA6825-2824-4831-A815-09562CAD0314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BA6825-2824-4831-A815-09562CAD0314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BA6825-2824-4831-A815-09562CAD0314}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +50,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{0883CC24-42F5-44E5-96AD-83A41A06381E} = {2589F50C-BE5D-42B0-964B-E183FE204931}
 		{70E215D4-E5D7-4DEE-B896-F37B481B0D7F} = {2589F50C-BE5D-42B0-964B-E183FE204931}
+		{7FFA5E30-4657-48D2-9989-920EC6BDA8F4} = {2C0161F3-F831-46B6-AC7C-E8F08A5F715D}
+		{53BA6825-2824-4831-A815-09562CAD0314} = {2C0161F3-F831-46B6-AC7C-E8F08A5F715D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0C3774B9-CB0D-408B-8A93-29F712E760C4}
